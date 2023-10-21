@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Budget_planner</string>
+    <string name="my_budget">Мой бюджет :</string>
+    <string name="Enter_your_budget">Сумма</string>
+    <string name="money_spent">Можно потратить :</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_ok">Ok</string>
+</resources>
